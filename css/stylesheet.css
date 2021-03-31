@@ -35,6 +35,7 @@ body {
   opacity: 0;
   transition: .5s ease;
   background-color: #308DFC;
+  
 
 }
 
@@ -52,7 +53,7 @@ body {
 
 .conteudo {
   height: 100vh;
-  background-color:  #D34444;
+  background: linear-gradient(141deg, rgba(209,202,220,1) 0%, rgba(203,196,213,1) 100%);
   max-width: 100vw;
 }
 
