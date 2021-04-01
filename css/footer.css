@@ -165,7 +165,8 @@ font-weight: 600;
 @media only screen and (min-width: 1024px) {
 
     footer {
-        padding: 0 10%;
+        padding: 0 15%;
+        height: 64px;
     }
     
     .row_icons {
@@ -174,6 +175,8 @@ font-weight: 600;
 
     .left_footer, .right_footer {
         font-size: 12px;
+        margin-right: 0;
+        
     }
 
     .left_footer {
