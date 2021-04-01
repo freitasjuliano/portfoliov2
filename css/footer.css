@@ -1,5 +1,5 @@
 footer {
-    background-color: #D34444;
+    background-color: #F43D2D;
     display: flex;
     max-width: 100vw;
 }
@@ -78,7 +78,6 @@ font-weight: 600;
 
 
 .email, .github {
-    background-color: #937185;
     color: white;
 }
 @media only screen and (min-width: 300px) {
@@ -133,7 +132,7 @@ font-weight: 600;
     .right_footer {
         grid-area: b;
         display: grid;
-        grid-template-rows: 1fr 2fr;
+        grid-template-rows: 1fr 1fr;
         grid-template-columns: 1fr 1fr;
         grid-template-areas: "one two"
                             "three four";
