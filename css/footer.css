@@ -167,6 +167,10 @@ font-weight: 600;
     footer {
         padding: 0 10%;
     }
+    
+    .row_icons {
+    display: none;
+    }
 
     .left_footer, .right_footer {
         font-size: 12px;
